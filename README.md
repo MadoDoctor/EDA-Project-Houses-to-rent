@@ -6,4 +6,4 @@ Github link to repository: https://github.com/MadoDoctor/EDA-Project-Houses-to-r
 # Installation
 There are used libraries like NumPy, Pandas, Matplotlib, Seaborn, CSV
 
-# Updating README.md
+# Updating README.md soon
